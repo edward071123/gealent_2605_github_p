@@ -4,8 +4,8 @@ public class App {
 
         System.out.println("main-update-#1-#2-#3-$4");
 
-        System.out.println("admin-update-#1");
+        System.out.println("admin-update-#1-#2");
 
-        System.out.println("dev-#1");
+        System.out.println("dev-#1-#2");
     }
 }

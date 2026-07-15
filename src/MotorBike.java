@@ -1,8 +1,7 @@
-public class Car {
-    
+public class MotorBike {
     private String plate;
 
-    public Car(String plate) {
+    public MotorBike(String plate) {
         setPlate(plate);
     }
 
