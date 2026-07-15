@@ -4,6 +4,8 @@ public class App {
 
         System.out.println("admin-update-#1-#2");
 
-        System.out.println("dev-update-#1-#2");
+        System.out.println("dev-update-#1-#2-#3");
+
+        Car c1 = new Car("AAA-111", "Benz");
     }
 }
